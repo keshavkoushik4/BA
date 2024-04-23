@@ -45,10 +45,6 @@ This repository contains the assignment details for building an e-commerce porta
 6. Platform admin reviews and approves the vendor's profile and product listings.
 7. Vendor receives confirmation of approval and gains access to the vendor portal for further management.
 
-## GitHub Repository
 
-### How to Use
-
-1. Clone the repository:
 
 
